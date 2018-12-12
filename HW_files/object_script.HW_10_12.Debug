@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\networkdownload.o
+./debug\datasource.o
+./debug\dataitem.o
+./debug\dataclose.o
+./debug\qrc_qml.o
+./debug\moc_networkdownload.o
+./debug\moc_datasource.o
+./debug\moc_dataitem.o
+./debug\moc_dataclose.o
+);

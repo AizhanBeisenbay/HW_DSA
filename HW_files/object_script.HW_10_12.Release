@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\networkdownload.o
+./release\datasource.o
+./release\dataitem.o
+./release\dataclose.o
+./release\qrc_qml.o
+./release\moc_networkdownload.o
+./release\moc_datasource.o
+./release\moc_dataitem.o
+./release\moc_dataclose.o
+);
